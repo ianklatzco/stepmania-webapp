@@ -1,3 +1,4 @@
+# typed: false
 # myapp.rb
 require 'sinatra'
 require_relative 'parse_songdir'

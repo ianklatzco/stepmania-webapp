@@ -1,3 +1,4 @@
+# typed: true
 # when this is instantiated, you can access a variable that contains a list of song sm/ssc filenames
 # todo: if sm and ssc, only get ssc
 class ParseSongDir
